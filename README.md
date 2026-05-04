@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Динамические метрики активности -->
+<img src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+
+<!-- 3D-график (с Action выше) -->
+![3D Activity](profile-3d-contrib/profile-gitblock.svg)
