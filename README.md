@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Динамические метрики активности -->
-<img src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=flitme&show_icons=true&theme=radical&hide_border=true" />
 
 <!-- 3D-график (с Action выше) -->
 ![3D Activity](profile-3d-contrib/profile-gitblock.svg)
